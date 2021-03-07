@@ -1,0 +1,1 @@
+.timer{display:flex;justify-content:center;margin:-5px}.field{margin:5px;display:inline-flex;flex-flow:column;text-align:center}.value{min-width:30px;color:#f0f8ff;background:#000;border-radius:8px;font-size:25px;padding:10px}.label{color:grey}
